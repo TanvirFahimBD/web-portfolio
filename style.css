@@ -20,6 +20,7 @@ h2 {
 }
 p {
   color: gray;
+  text-align: justify;
 }
 .half-width img {
   width: 65%;
@@ -53,7 +54,9 @@ section {
   border-radius: 5px;
   height: 80%;
   background-color: white;
+  padding: 25px;
 }
+
 .experience-area {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
